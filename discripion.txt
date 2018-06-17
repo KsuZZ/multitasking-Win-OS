@@ -1,0 +1,3 @@
+The work used 2 types of multitasking were used: Process multitasking and multithread multitasking.
+Streaming multitasking has an advantage over the process one and is the main one.
+  The process can be started / terminated, and threads can be paused, restarted, started and terminated, ie we have more control over the process.
